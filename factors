@@ -29,6 +29,7 @@ check_factor()
                         num1=$num2
                         num2=$numcp
                 fi
+
         echo "$num$num1*$num2"
 }
 
